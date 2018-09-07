@@ -1,5 +1,5 @@
 # Oshijagel Web site developing
-Developing web site to realsite url:https://estrenacasas.com/
+Developing web site to a realstate url:https://estrenacasas.com/
 
 ## Getting Started
 
