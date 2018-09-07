@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://estrenacasas.com/</loc>
+    <lastmod>2018-09-05</lastmod>
+     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+   <url>
+    <loc>https://estrenacasas.com/financiamiento</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+ <url>
+    <loc>https://estrenacasas.com/contacto</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+ <url>
+    <loc>https://estrenacasas.com/promociones</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <!-- cdmx -->
+ <url>
+    <loc>https://estrenacasas.com/propiedad/cdmx/ejecentral</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+    
+    <!-- edomex -->
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/bosquesheroes</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/bosquesresidencial</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/jema</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/sanpablo</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/chalco</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/edomex/paseobosques2</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+    
+    <!-- hgo -->
+ <url>
+    <loc>https://estrenacasas.com/propiedad/hgo/heroestizayuca</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+     <!-- qro -->
+ <url>
+    <loc>https://estrenacasas.com/propiedad/qro/losencinos</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://estrenacasas.com/propiedad/qro/paseobosque</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+   <url>
+    <loc>https://estrenacasas.com/propiedad/qro/trescantos</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+    <!-- qroo -->
+<url>
+    <loc>https://estrenacasas.com/propiedad/qroo/jardinessur4</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/qroo/losolivos3</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+ <url>
+    <loc>https://estrenacasas.com/propiedad/qroo/pradonorte</loc>
+    <lastmod>2018-09-01</lastmod>
+     <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+</urlset>
