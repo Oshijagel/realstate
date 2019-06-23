@@ -1,5 +1,5 @@
 # Oshijagel Web site developing
-Developing web site to a realstate url:https://estrenacasas.com/
+Developing web site to a realstate url:http://www.ventacasasydepartamentos.mx/
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ NodeJs
 
 ## Web Site 
 
-* [https://estrenacasas.com/](https://estrenacasas.com/) - Web Site
+* [http://www.ventacasasydepartamentos.mx/](http://www.ventacasasydepartamentos.mx/) - Web Site
 
 ## Authors
 
